@@ -1,18 +1,6 @@
 # 🚀 My Portfolio
 
-A single-page portfolio website built with **vanilla HTML, CSS, and JavaScript**, featuring a sophisticated dark Graphite theme with smooth animations.
-
-## 🎨 Design
-
-| Token | Value |
-|---|---|
-| Background | `#1a1a1d` (dark graphite) |
-| Accent | `#8A9DB1` (steel blue) |
-| Secondary Accent | `#ECC5C6` (soft pink) |
-| Text Primary | `#F5E9E7` (cream) |
-| Text Secondary | `#C1C0C2` (silver) |
-| Font | Poppins (Google Fonts) |
-| Card BG | `rgba(193,192,194,0.06)` with subtle glow |
+A single-page portfolio website built with HTML, CSS, and JavaScript, featuring a sophisticated dark Graphite theme with smooth animations.
 
 ## 📂 Project Structure
 
